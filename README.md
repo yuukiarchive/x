@@ -24,8 +24,8 @@
 <details>
 <summary>[show]</summary>
 
-* [Archive.today](https://archive.today/https://x.com/yuuki26/status/*) · [jpn](https://archive.today/https://x.com/yuuki170/status/*)
-* [Posfie (- 2024)](https://posfie.com/@yuuki253/p/T1r2nif) · [jpn](https://posfie.com/@yuuki253/p/kEKxAGg)
+* [Archive.today](https://archive.today/https://x.com/yuuki26/status/*) <sub>([jpn](https://archive.today/https://x.com/yuuki170/status/*))</sub>
+* [Posfie (- 2024)](https://posfie.com/@yuuki253/p/T1r2nif) <sub>([jpn](https://posfie.com/@yuuki253/p/kEKxAGg))</sub>
 * [FC2 Blog (- Jun 2024)](https://yuuki6.blog.fc2.com/)
 * [Media (- 2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
 
