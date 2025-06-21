@@ -6,10 +6,12 @@
 ## Hashtags
 
 * [#history](https://x.com/search?q=%23history+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-history) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23history))</sub>
+* [#mistakes](https://x.com/search?q=%23mistakes+from%3Ayuuki26&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki26/hashtags-mistakes) · [notestock](https://notestock.osa-p.net/@yuukikonno@mastodon.social/view?q=%23mistakes))</sub>
 
 ### Japanese
 
 * [#歴史](https://x.com/search?q=%23%E6%AD%B4%E5%8F%B2+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E6%AD%B4%E5%8F%B2))</sub>
+* [#失敗](https://x.com/search?q=%23%E5%A4%B1%E6%95%97+from%3Ayuuki170&f=live) <sub>([twilog](https://twilog.togetter.com/yuuki170/hashtags-%E5%A4%B1%E6%95%97))</sub>
 
 ## Alternative frontends
 
