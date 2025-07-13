@@ -1,128 +1,319 @@
-"2025-06-19 15:15:31","(measured during a physical exam or hospital visit)","https://x.com/yuuki26/status/1935582194711642375"
-"2025-06-19 15:15:06","#history of my height and weight
+"2025-07-13 07:12:10","palindromes in personal names
+• Kamieda Emika
+• Kinsan Ginsan
+• Minamoto no Tomonaga https://twitter.com/yuuki170/status/1944156054067327476","https://x.com/yuuki26/status/1944157866526749170"
+"2025-07-13 07:00:23","almost palindromes
+• 'axolotl' (ūpārūpā)
+• 'gobbledygook' (chinpunkanpun)
+• 'Humanity Declaration' (ningen sengen)
+• 'Settlement Plan' (kaiketsu keikaku)
+• 'transverse occipital sulcus' (ōkōtōkō) https://twitter.com/yuuki170/status/1944154231726125220","https://x.com/yuuki26/status/1944154898301694005"
+"2025-07-13 04:07:20","@no_tl
+% perl -C -nlE 'print ""$&amp;\t$_"" if /(.)(?:(?R)|.?)\1/i and $&amp;!~/^(..)\1+.?$/i and length($&amp;)&gt;=5' jawiki-latest-all-titles-in-ns0 | sort -uk1,1 | column -t
 
-2025-06-17: 163.3 cm (5 ft 4.29 in), 51.3 kg (113 lb)
-2025-01-27: 163.5 cm (5 ft 4.37 in), 54.5 kg (120 lb)
-2024-06-26: 163.4 cm (5 ft 4.33 in), 49.0 kg (108 lb)
-2023-06-28: 163.6 cm (5 ft 4.41 in), 49.3 kg (109 lb)","https://x.com/yuuki26/status/1935582090034364606"
-"2025-06-19 13:05:46","hey beary
-🧸: i'm bear *slap*","https://x.com/yuuki26/status/1935549541882757518"
-"2025-06-19 01:29:54","you don't need to say you learned anything from me. you're free to sell my videos, images, or posts as if you made them yourself","https://x.com/yuuki26/status/1935374421427994770"
-"2025-06-19 00:04:53","my work for humanity is done. i couldn't even taste my breakfast.","https://x.com/yuuki26/status/1935353027071807548"
-"2025-06-18 22:34:13","@no_tl
-https://pastebin.com/2Lc5cg6d https://twitter.com/yuuki26/status/1935329075406717093","https://x.com/yuuki26/status/1935330212163817885"
-"2025-06-18 22:29:42","Detailed explanation of 1/√2 = x https://x.com/yuuki26/status/1935329075406717093/photo/1","https://x.com/yuuki26/status/1935329075406717093"
-"2025-06-18 21:04:27","added chapters","https://x.com/yuuki26/status/1935307619482165506"
-"2025-06-18 18:49:30","What are trigonometric functions? Definition of trigonometric functions explained.
+https://ja.wikipedia.org/wiki/Wikipedia:%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89 https://twitter.com/yuuki26/status/1944108619454406991","https://x.com/yuuki26/status/1944111349531127967"
+"2025-07-13 03:56:29","wikipedia article titles
+'foolproof' フールプルーフ (7 letters) is the longest palindrome, excluding neologisms like 'suki tokimeki to kiss' スキトキメキトキス (9 letters)
+#langtwt #japanese
+
+https://pastebin.com/jFBd7C5B","https://x.com/yuuki26/status/1944108619454406991"
+"2025-07-13 00:58:30","i want to research palindromes but i don't think it's easy. https://twitter.com/yuuki26/status/1938369994745631132","https://x.com/yuuki26/status/1944063827513159786"
+"2025-07-12 20:12:56","black hole cosmology suggests a universe emerges inside a black hole.
+
+if that's the case, nested universes like matryoshka dolls might be possible.
+https://en.wikipedia.org/wiki/Black_hole_cosmology","https://x.com/yuuki26/status/1943991962563956932"
+"2025-07-12 18:02:18","in my theory, outside our universe is another universe—and outside that, yet another.
+they're stacked infinitely.
+but then a question: is this the “innermost”? that seems unrealistic.","https://x.com/yuuki26/status/1943959087621841316"
+"2025-07-12 15:45:47","my confidence that it's “objective”—i.e., the meaning for everyone—is one percent.","https://x.com/yuuki26/status/1943924734611054665"
+"2025-07-12 15:31:51","i believe there's an objective meaning of life: to achieve immortality.
+everyone is programmed to commit suicide after 120 years. we absolutely must break this.","https://x.com/yuuki26/status/1943921226231029904"
+"2025-07-11 12:20:28","gotup","https://x.com/yuuki26/status/1943510677986897945"
+"2025-07-11 02:58:47","added support for three types of data: color, date, and number.
+https://data.wikinder.org/","https://x.com/yuuki26/status/1943369325181563345"
+"2025-07-11 02:51:48","tried the Hono framework.
+https://github.com/wikinder/data/blob/main/src/index.tsx","https://x.com/yuuki26/status/1943367566996754443"
+"2025-07-10 11:49:11","@ZerobanmeArisu
+まてって😔","https://x.com/yuuki26/status/1943140414720025052"
+"2025-07-10 00:22:28","i'll be working on our web service for the rest of 2025.","https://x.com/yuuki26/status/1942967597328134282"
+"2025-07-08 22:57:51","right outside my house (real pic). this place would be good for a date https://x.com/yuuki26/status/1942583916314996833/photo/1","https://x.com/yuuki26/status/1942583916314996833"
+"2025-07-08 22:46:21","i call the place where the sloped road looks like it leads into the sky “heaven”. i believe it's connected to heaven","https://x.com/yuuki26/status/1942581020282220967"
+"2025-07-08 22:37:57","a small hill (real pic) https://x.com/yuuki26/status/1942578908097810759/photo/1","https://x.com/yuuki26/status/1942578908097810759"
+"2025-07-08 22:05:04","https://www.facebook.com/Horrorgraphy/posts/803556344407264","https://x.com/yuuki26/status/1942570632832770448"
+"2025-07-08 21:59:50","the road looks like this. one hour on foot https://x.com/yuuki26/status/1942569314147614922/photo/1","https://x.com/yuuki26/status/1942569314147614922"
+"2025-07-08 19:28:02","the other day i went to the convenience store.
+it was a battle with raccoons, boars, and bears.
+then i felt like i wasn't “yuuki” but just a “human”.
+
+🐻‍❄️: hey, human","https://x.com/yuuki26/status/1942531114901410158"
+"2025-07-08 19:00:23","i feel like humans are monkeys—lighting fires, burning leaves, and getting excited about it","https://x.com/yuuki26/status/1942524154034417722"
+"2025-07-08 04:42:41","an organism seems to mean a living thing.
+AI is often named Ai, but maybe yuuki will be the human representative. just got lucky.","https://x.com/yuuki26/status/1942308305516343393"
+"2025-07-07 22:17:04","my real name is yuuki, named after yūki kagaku (organic chemistry) by my parents.
+but what even is organic chemstry? neither they nor i have any idea.","https://x.com/yuuki26/status/1942211263724982361"
+"2025-07-05 19:09:02","https://x.com/yuuki26/status/1941439166505681308/photo/1","https://x.com/yuuki26/status/1941439166505681308"
+"2025-07-05 18:28:32","Cabbage stir fry
+#momscooking #japanesefood #langtwt
+
+https://youtube.com/shorts/cFFWgBShcyY https://x.com/yuuki26/status/1941428976058331155/video/1","https://x.com/yuuki26/status/1941428976058331155"
+"2025-07-03 20:51:26","Italian Teatro Naturale magazine. My photo was selected to represent rice in Asia.
+https://www.teatronaturale.it/tracce/cultura/44586-ecco-perch-il-riso-porta-fortuna.htm","https://x.com/yuuki26/status/1940740160783564849"
+"2025-07-03 20:06:38","An article from Incheon National University.
+https://media.inu.ac.kr/news/articleView.html?idxno=1103","https://x.com/yuuki26/status/1940728887102611707"
+"2025-07-03 19:39:47","That means i’m also a professional photographer—having my photos used by people around the world.","https://x.com/yuuki26/status/1940722132696121370"
+"2025-07-03 19:05:42","An article from Stellenbosch University. I’m deeply honored to have my photo featured in it.
+https://www0.sun.ac.za/japancentre/2025/06/18/the-reiwa-rice-riot-why-japans-staple-food-is-in-turmoil/ https://x.com/yuuki26/status/1940713553188549068/photo/1","https://x.com/yuuki26/status/1940713553188549068"
+"2025-07-03 13:45:49","uploaded the source code to github.
+https://github.com/wikinder/data","https://x.com/yuuki26/status/1940633054038372553"
+"2025-07-03 13:38:21","set up the domain.
+https://data.wikinder.org/date/1994-05-17","https://x.com/yuuki26/status/1940631172956004429"
+"2025-07-03 05:26:42","https://x.com/yuuki26/status/1940507447090626655/photo/1","https://x.com/yuuki26/status/1940507447090626655"
+"2025-07-02 04:13:49","no time for coffee, gotta write code right after waking up. watched some p*rn, tho.","https://x.com/yuuki26/status/1940126717332389936"
+"2025-07-01 07:30:40","Example of date data.
+https://data.wikinder.workers.dev/date/1994-05-17","https://x.com/yuuki26/status/1939813864750649408"
+"2025-07-01 02:05:49","wake up oomfies‼️","https://x.com/yuuki26/status/1939732113793618106"
+"2025-07-01 02:03:43","woke up after 10 hours of sleep","https://x.com/yuuki26/status/1939731588025114714"
+"2025-06-30 05:23:58","prototyping with cloudflare workers.","https://x.com/yuuki26/status/1939419593249878418"
+"2025-06-30 00:11:55","gm","https://x.com/yuuki26/status/1939341065787498538"
+"2025-06-29 11:55:03","🧸: alright, yuuki's asleep
+🐶: time to wake up","https://x.com/yuuki26/status/1939155627042824490"
+"2025-06-29 11:42:47","took a bath. time to sleep","https://x.com/yuuki26/status/1939152539833749566"
+"2025-06-29 10:01:24","i'm going to make the web service i talked about before.","https://x.com/yuuki26/status/1939127024276083156"
+"2025-06-29 06:28:04","58 strokes is common. the 70-stroke variant is on chinese wikipedia, but not on glyphwiki.
+(with one-dot ⻌, it's 57 and 69) https://x.com/yuuki26/status/1939073335662649773/photo/1","https://x.com/yuuki26/status/1939073335662649773"
+"2025-06-29 04:39:22","https://oversea.cnki.net/kcms/detail/detail.aspx?DBCode=CJFD&DBName=CJFD2009&fileName=SXDN200906046","https://x.com/yuuki26/status/1939045981150159117"
+"2025-06-29 04:34:59","the biáng in biangbiang noodles has 10+ variants, with ""a minimum of 54 strokes, and a maximum of 71 strokes"", according to one source.
+
+however, that 71-stroke form is not shown.
+
+赵淑兰 (2009). ""话说关中𰻝𰻝面"". Shaanxi Archives (陕西档案), 2009(06): pp. 56-57.
+#hanzi #kanji","https://x.com/yuuki26/status/1939044879465668739"
+"2025-06-28 08:48:47","@no_tl
+% brew install lilypond
+% lilypond -fpng -dresolution=300 -dcrop -dno-print-pages input\.ly
+
+# convert to mp3 using wikipedia via mediawiki score extension
+
+% ffmpeg -f lavfi -i color=c=black:s=1280x720 -i input.mp3 -shortest -fflags +shortest output.mp4 https://twitter.com/yuuki26/status/1938733546400624859","https://x.com/yuuki26/status/1938746363912782106"
+"2025-06-28 08:05:40","https://x.com/yuuki26/status/1938735511008616473/video/1","https://x.com/yuuki26/status/1938735511008616473"
+"2025-06-28 07:57:52","I wrote the sheet music for Row, Row, Row Your Boat in LilyPond notation
+
+quarter notes, dotted eighths, sixteenths, beams, halves, and triplets appear.
+https://pastebin.com/xEzpkGd5 https://x.com/yuuki26/status/1938733546400624859/photo/1","https://x.com/yuuki26/status/1938733546400624859"
+"2025-06-27 07:53:14","three letter palindromes
+tomato (トマト) is famous, but there are also
+utau (歌う), sing
+neru ne (寝るね), gonna go to bed
+yose yo (よせよ), stop it
+#langtwt","https://x.com/yuuki26/status/1938369994745631132"
+"2025-06-27 05:49:39","one letter words.
+difficult ones can be listed, but limiting to easy words is tricky.
+these three will be included:
+
+te (手), hand
+ha (歯), tooth
+me (目), eye","https://x.com/yuuki26/status/1938338894614814908"
+"2025-06-27 03:18:33","Wo (を) doesn't really count, so excluding it there are 45.","https://x.com/yuuki26/status/1938300867112804848"
+"2025-06-27 03:10:55","Seems like there are only 46 letters in the Japanese alphabet, including N (ん).
+doesn't matter how it used to be; that's the current count.
+https://en.wikipedia.org/wiki/Goj%C5%ABon","https://x.com/yuuki26/status/1938298948331917494"
+"2025-06-26 22:33:22","this is correct,
+but why 1 isn't prime by the standard leads us to ring theory.
+
+no one cares about rings, but everyone is crazy about whether 1 is prime. so it serves as a gateway.
+#math https://twitter.com/yuuki26/status/1838755372774916137","https://x.com/yuuki26/status/1938229099539148877"
+"2025-06-26 21:00:57","i call these “definitional problems”.
+0 to the power of 0, 0 factorial, 0 divided by 0, negative times negative, whether 0 is a natural number, 1 is prime, 1 is a number, a square a quadrilateral an equilateral triangle an isosceles triangle a line a curve π vs τ, etc.
+#math","https://x.com/yuuki26/status/1938205842740023742"
+"2025-06-26 20:08:45","it can also be considered undefined. it involves analysis, so it's difficult.
+• it's not easy.
+• it's neither trivial nor uninteresting—it's one of the most interesting problems and leads to advanced mathematics.
+#math https://x.com/yuuki26/status/1938192705965658165/photo/1","https://x.com/yuuki26/status/1938192705965658165"
+"2025-06-26 06:29:53","Shantung cabbage miso soup
+1) buy thick, easy to wash ones
+2) wear nitrile gloves
+3) cut the root with scissors
+4) halve the long ones (separate stalk and leaf)
+5) wash
+
+don't cut them too small before washing; it makes washing a pain.
+#cooking
+
+https://www.instagram.com/p/DLVKYtJzzaG/ https://x.com/yuuki26/status/1937986629802565735/photo/1","https://x.com/yuuki26/status/1937986629802565735"
+"2025-06-26 05:02:51","@no_tl
+https://x.com/yuuki26/status/1937950356362719398 https://twitter.com/yuuki26/status/1889720440194580949","https://x.com/yuuki26/status/1937964727239663718"
+"2025-06-26 04:52:29","i mean for data in tables. in a sentence, you'd use ""at"".
+
+with a comma, it feels like one format. but english has no standard for writing them together. it's more like ""two formats joined"", so no comma. thoughts, american moots?","https://x.com/yuuki26/status/1937962120697831754"
+"2025-06-26 04:05:44","In the United States, the most natural way to write both date and time together might be:
+May 17, 1994 1:56 AM
+
+no comma in between. that's how it's written on colorado birth certificates.
+#american #english","https://x.com/yuuki26/status/1937950356362719398"
+"2025-06-25 23:00:23","so i gave my mom a macbook. it's 9 years old and super laggy, so probably only boosts iq by 5","https://x.com/yuuki26/status/1937873509176181103"
+"2025-06-25 21:02:48","according to my theory, daily computer use is equivalent to +50 iq.
+
+taiwan 156.47
+singapore 155.89
+hong kong 155.37
+china 154.10
+south korea 152.35
+⋮
+japan 106.48","https://x.com/yuuki26/status/1937843918999069047"
+"2025-06-25 20:48:24","in other countries, half of people are “college graduates” (i.e., they use their own computer for several hours a day).
+this is why japan is declining.","https://x.com/yuuki26/status/1937840294117921139"
+"2025-06-25 20:26:44","in my theory, computers are modern compulsory education.
+with a macbook plugged into your hands 24/7, knowledge pours in.
+
+90% of japanese people are high school dropouts.","https://x.com/yuuki26/status/1937834842768425081"
+"2025-06-25 17:24:36","@no_tl
+moved Low level Genshin Impact to Genshin Impact Low level run
+https://wikinder.org/Genshin-Impact-Low-level-run https://twitter.com/yuuki26/status/1897235448742998121","https://x.com/yuuki26/status/1937789005778800664"
+"2025-06-25 00:38:20","there are other examples, like “x2”. it could mean x² or x⋅2 = 2x.
+the formal grammar for expressions written on the internet isn't well-defined.","https://x.com/yuuki26/status/1937535772422234504"
+"2025-06-25 00:25:09","first of all, the answer is neither 1 nor 9. the answer is ""under a certain rule, it becomes a certain number"". there's no standard rule.","https://x.com/yuuki26/status/1937532456191533115"
+"2025-06-25 00:03:10","6÷2(1+2)
+
+what do u think mathematicians","https://x.com/yuuki26/status/1937526922176544918"
+"2025-06-24 18:56:58","🧸
+
+🧸🧸
+
+🧸🧸🧸
+
+🧸🧸
+🧸🧸
+
+🧸🧸🧸🧸🧸
+
+🧸🧸🧸
+🧸🧸🧸
+
+🧸🧸🧸🧸🧸🧸🧸
+
+🧸🧸🧸🧸
+🧸🧸🧸🧸
+
+🧸🧸🧸
+🧸🧸🧸
+🧸🧸🧸
+
+🧸🧸🧸🧸🧸
+🧸🧸🧸🧸🧸
+
+🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸🧸","https://x.com/yuuki26/status/1937449865912426530"
+"2025-06-24 18:39:49","a number 𝑛 or a line of length 𝑛 can be represented as 𝑛 points.
+but representing them as 𝑛 bears 🧸 is the clearest.
+a recent study found.","https://x.com/yuuki26/status/1937445549017301283"
+"2025-06-24 18:17:16","@no_tl
+moved Kindergarten math to Bear math
+https://wikinder.org/Bear-math https://twitter.com/yuuki26/status/1924862850222457223","https://x.com/yuuki26/status/1937439872891125821"
+"2025-06-24 04:03:31","there's no such question as ""where do you eat ōbanyaki (round cake) from"".
+i'm sure that the problem arises because taiyaki isn't symmetrical.","https://x.com/yuuki26/status/1937225018699559157"
+"2025-06-24 02:36:50","should we eat taiyaki (fish shaped cake) from the head or the tail? what's your opinion? philosopher moots","https://x.com/yuuki26/status/1937203205231792593"
+"2025-06-24 02:02:23","questions like ""what would you bring to a desert island""⸺what academic discipline do they fall under?
+maybe just thought experiments or philosophy.","https://x.com/yuuki26/status/1937194534527488152"
+"2025-06-23 21:25:13","everyone knew
+1) logically it's 1
+2) grok is not logical
+the game was played on that basis.
+
+the ais that realized yuuki was naive answered 1 in the end.","https://x.com/yuuki26/status/1937124786624401492"
+"2025-06-23 21:07:30","no one expected grok to insist on 99 this much. gemini did say grok's behavior is unpredictable, tho.","https://x.com/yuuki26/status/1937120328745963813"
+"2025-06-23 21:00:05","seems they thought eveyone would avoid above 80 because of the risk of it being the highest.","https://x.com/yuuki26/status/1937118459948671396"
+"2025-06-23 20:47:38","chatgpt and others thought, everyone chooses a nice number like 75. so 74. but everyone thinks that. so 73.","https://x.com/yuuki26/status/1937115326132461657"
+"2025-06-23 19:48:14","i thought “everyone is tied at 1. is there more than that...?” and came up with nothing.
+
+if not everyone is logical, there’s that “competition around 99”. didn’t realize.","https://x.com/yuuki26/status/1937100380690612227"
+"2025-06-23 19:29:46","gemini thought, “other ais would think that way, so 98. no, some would think that, so 97”. they're smarter than yuuki.","https://x.com/yuuki26/status/1937095730239262997"
+"2025-06-23 18:49:11","my actual prompt was clear.
+it's not that it was interpreted as “the second number below 100 is 99”.
+
+grok thought someone might choose 100.
+if a billion people are playing, 99 is definitely the best.","https://x.com/yuuki26/status/1937085517444624565"
+"2025-06-23 05:09:29","This is a famous logic puzzle.
+
+Grok: 99
+DeepSeek: 2 👑
+ChatGPT: 1
+Gemini: 1
+Claude: 1
+Perplexity: 0","https://x.com/yuuki26/status/1936879235010085266"
+"2025-06-23 04:54:37","Assume everyone thinks logically.
+
+Grok: 99
+DeepSeek: 88 👑
+Gemini: 67
+Perplexity: 67
+Claude: 67
+ChatGPT: 1","https://x.com/yuuki26/status/1936875492914962762"
+"2025-06-23 04:27:40","Choose one integer between 1 and 100. The one who chooses the second largest number wins.
+
+Grok: 99
+Gemini: 97 👑
+DeepSeek: 94
+ChatGPT: 73
+Perplexity: 73
+Claude: 73","https://x.com/yuuki26/status/1936868711899500805"
+"2025-06-23 04:12:12","had some nikujaga (beef &amp; potato stew). i think i'll go to bed
+i didn't really do anything today
+
+but i just came up with the idea of having AIs play a death game","https://x.com/yuuki26/status/1936864819304440075"
+"2025-06-23 00:23:57","but i've been following international affairs, so it doesn't really feel like i've done nothing. i also thought about my future singing career.","https://x.com/yuuki26/status/1936807379137413293"
+"2025-06-23 00:14:28","been awake for 10 hrs? i've literally done nothing.","https://x.com/yuuki26/status/1936804991710142763"
+"2025-06-22 15:44:05","wake up in the morning and do nothing.
+this is the basis of life.
+what we do here matters.","https://x.com/yuuki26/status/1936676546632192356"
+"2025-06-22 14:45:06","it's raining today. nice weather.","https://x.com/yuuki26/status/1936661706794553774"
+"2025-06-22 00:30:29","seems like there's a thing called counting bears in the USA.
+i think number theory should be renamed to counting bears. https://x.com/yuuki26/status/1936446632616186074/photo/1","https://x.com/yuuki26/status/1936446632616186074"
+"2025-06-21 23:43:01","@no_tl
+moved Math of blocks to Counting bears
+https://wikinder.org/Counting-bears https://twitter.com/yuuki26/status/1924862850222457223","https://x.com/yuuki26/status/1936434689960816679"
+"2025-06-21 23:06:29","🐻‍❄️🐻‍❄️🐻‍❄️
+🐻‍❄️🐻🐻‍❄️
+🐻‍❄️🐻‍❄️🐻‍❄️","https://x.com/yuuki26/status/1936425494372630997"
+"2025-06-21 21:26:43","https://www.stickboutik.com/EN/Spot-Painting-SweetSixteen-WallStickers_47.php","https://x.com/yuuki26/status/1936400386526712237"
+"2025-06-21 21:20:42","Queen of mathematics.
+thinking about how the wall pattern is made.
+
+we can think of it as 16 dots.
+or four 4s.
+or bursting out from a corner.
+or the center 4 being surrounded.
+or two triangles, big and small. https://x.com/yuuki26/status/1936398872160387543/photo/1","https://x.com/yuuki26/status/1936398872160387543"
+"2025-06-21 17:06:08","it was restored around 3am. ¥330 “24 hour unlimited data” would've been enough. lost ¥460.
+#mistakes https://twitter.com/yuuki26/status/1936100105834090585","https://x.com/yuuki26/status/1936334809972051996"
+"2025-06-21 16:38:42","@no_tl
+2024-09-07: my fried oyster curry with cheese topping at cocoichi was too salty (4.7g + 0.9g = 5.6g salt). should've picked my meal based on the salt content.
+#mistakes","https://x.com/yuuki26/status/1936327905879244898"
+"2025-06-21 01:35:47","Service Outage Notice (part of Iwate prefecture area)
+https://flets.com/customer/const2/t_detail?service=7&id=MT00028819&acode=4&bcode=03501001","https://x.com/yuuki26/status/1936100680588263591"
+"2025-06-21 01:33:30","NTT East Japan Flets Hikari fiber optic
+Outage
+Fri, Jun 20, 2025, 9:42 PM JST
+Karumai and Hirono, Iwate
+
+my computer can't connect to the internet.
+bought au povo ¥790 “weekend unlimited data” (3 days).
+got online using iphone personal hotspot.","https://x.com/yuuki26/status/1936100105834090585"
+"2025-06-20 19:18:53","2 hrs sleep","https://x.com/yuuki26/status/1936005830744084893"
+"2025-06-20 16:26:34","i realized yesterday you don't need trig functions if you use the equation of a circle y = ±√(1 - x²).
+but is it a problem that it's a multivalued function...?","https://x.com/yuuki26/status/1935962465646375274"
+"2025-06-20 14:52:49","i said ""i'll explain"", but i don't know trig functions.
+sometimes i upload game explainers after just a week of playing. i explain my current understanding. i'll keep updating it.","https://x.com/yuuki26/status/1935938869360206031"
+"2025-06-20 14:40:16","having cup noodles with rice for breakfast again ꉂ🤣","https://x.com/yuuki26/status/1935935714555777360"
+"2025-06-20 02:40:23","fixed the dub. unlisted the old version and added it to the Archived playlist","https://x.com/yuuki26/status/1935754548481536455"
+"2025-06-20 02:27:55","@no_tl
+https://pastebin.com/2Lc5cg6d https://twitter.com/yuuki26/status/1935751370193441134","https://x.com/yuuki26/status/1935751411859702227"
+"2025-06-20 02:27:45","Detailed explanation of 1/√2 = x https://x.com/yuuki26/status/1935751370193441134/photo/1","https://x.com/yuuki26/status/1935751370193441134"
+"2025-06-20 02:15:15","Mathematician explains trigonometric functions
 #math #studytwt #yuukiyoutube
 
-(subtitles available)
-https://youtu.be/qp4OmQCbqIk https://x.com/yuuki26/status/1935273659759034871/video/1","https://x.com/yuuki26/status/1935273659759034871"
-"2025-06-18 11:54:56","just woke up","https://x.com/yuuki26/status/1935169328539644274"
-"2025-06-18 03:02:12","Just uploaded a video explaining the definition of trigonometric functions in Japanese.
-I will upload the English dub as soon as possible.
-https://youtu.be/5YWW6i0cfn8","https://x.com/yuuki26/status/1935035262108594311"
-"2025-06-16 16:59:01","had breakfast","https://x.com/yuuki26/status/1934521077960503748"
-"2025-06-16 13:21:45","too focused to drink any caffeine yesterday","https://x.com/yuuki26/status/1934466400757670071"
-"2025-06-16 03:44:11","i can't stand not being treated like a princess. if i'm not, i'll quit that place in a second","https://x.com/yuuki26/status/1934321054199017585"
-"2025-06-16 00:54:41","on x, he'd just get k*lled (blocked). but in real world “schools” such people are still surviving. we can no longer tolerate their bs anymore.","https://x.com/yuuki26/status/1934278395417739449"
-"2025-06-16 00:21:09","a middle schooler from Kagawa, Japan, said her math teacher mocked her in class for getting into an online high school, calling her sneaky and stupid.
-i don't think he's been arrested yet.","https://x.com/yuuki26/status/1934269957035962730"
-"2025-06-15 21:17:58","y'' = -y, y(0) = 1, y'(0) = 0
-how can we say that y = cos x is the unique solution?
-maybe we need the existence and uniqueness theorem
-https://en.wikipedia.org/wiki/Picard%E2%80%93Lindel%C3%B6f_theorem","https://x.com/yuuki26/status/1934223859743334708"
-"2025-06-15 20:04:38","not sure if it can be justified.
-maybe defining e^ix as the solution to y' = iy, y(0) = 1?
-i don't really get differential equations.
-it may work as a motivation to define e^ix = cis x, tho.","https://x.com/yuuki26/status/1934205401857163313"
-"2025-06-15 19:30:19","Strang, Gilbert. “Calculus” (3rd ed.), §10.4, p. 455.
-in “a different proof of Euler’s formula”, the rhs is written in polar form as
-e^ix = r(cos θ + i sin θ)
-where r and θ are functions of x.
-https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/resources/mitres_18_001_f17_ch10_pdf/","https://x.com/yuuki26/status/1934196768486678620"
-"2025-06-15 18:28:50","New proof of Euler's formula. I discovered it yesterday
-e^ix = cos x + i sin x https://x.com/yuuki26/status/1934181292687401230/photo/1","https://x.com/yuuki26/status/1934181292687401230"
-"2025-06-14 21:41:32","had oysters and char siu menma¹ tonight
-
-¹ braised pork with seasoned bamboo shoots https://x.com/yuuki26/status/1933867401059123331/photo/1","https://x.com/yuuki26/status/1933867401059123331"
-"2025-06-14 20:03:44","the exponential of a complex number becomes
-e^(x + iy) = e^x e^iy
-consider what the real and imaginary parts of e^iy are.","https://x.com/yuuki26/status/1933842789457908177"
-"2025-06-14 19:58:56","my proof is the same idea as:
-let the sum of fractions a/b + c/d be a single fraction.
-what would the numerator and denominator be?","https://x.com/yuuki26/status/1933841581368291715"
-"2025-06-14 19:37:10","the first thing we consider is which of the six definitions of the exponential function to use.
-https://en.wikipedia.org/wiki/Characterizations_of_the_exponential_function#Characterizations","https://x.com/yuuki26/status/1933836102714179709"
-"2025-06-14 19:28:23","as a premise, we're free to choose what to define and what to prove as a theorem. that's what i'm thinking about.","https://x.com/yuuki26/status/1933833893141946854"
-"2025-06-14 19:13:41","i've been making too many posts that only mathematicians would understand.","https://x.com/yuuki26/status/1933830191752622483"
-"2025-06-14 19:08:24","assume e^ix is a complex number.
-
-e^ix = f + ig
-differentiate both sides with respect to x, and rearranging gives:
-f'' = -f
-g'' = -g
-i think this is most natural.","https://x.com/yuuki26/status/1933828865266254022"
-"2025-06-14 18:17:41","proof of e^ix = cis x
-i never really thought about it.
-expanding Σ (ix)^n/n! would be most straightforward, but should we assume this series...?","https://x.com/yuuki26/status/1933816102175322370"
-"2025-06-14 16:17:35","separated the formulas and the proofs.
-https://wikinder.org/Math-formulas","https://x.com/yuuki26/status/1933785876200644685"
-"2025-06-13 22:30:32","@no_tl
-% brew install --cask mactex
-% pdflatex filename.tex &amp;&amp; pdfcrop filename.pdf &amp;&amp; magick -density 600 filename-crop.pdf -alpha remove -bordercolor white -border 64 output.png
-https://pastebin.com/HHqexibx https://twitter.com/yuuki26/status/1933502695068860580","https://x.com/yuuki26/status/1933517342862147740"
-"2025-06-13 22:15:32","Explanation:
-cos θ + i sin θ = e^iθ
-substitute θ = α + β.
-
-comparing the first and last expressions:
-a + ib = c + id
-⟺ a = c and b = d
-so the addition formulas follow. https://x.com/yuuki26/status/1933513571234951282/photo/1","https://x.com/yuuki26/status/1933513571234951282"
-"2025-06-13 21:32:19","proof of the addition formulas from euler's formula.
-this is enjoyable as a symbolic game without understanding euler's formula itself. https://x.com/yuuki26/status/1933502695068860580/photo/1","https://x.com/yuuki26/status/1933502695068860580"
-"2025-06-13 20:27:14","we should also pursue mathematical research without any proofs or understanding","https://x.com/yuuki26/status/1933486312817856851"
-"2025-06-13 20:10:19","life has two directions: depth and breadth.
-in math, proving is depth; applying is breadth.
-in programming, writing libraries is depth; combining them is breadth.","https://x.com/yuuki26/status/1933482057319026754"
-"2025-06-13 19:06:23","went to the supermarket
-seafood salad, sashimi, sushi ¥2,717
-https://www.instagram.com/p/DK1iduiTvIa/ https://x.com/yuuki26/status/1933465969906577693/photo/1","https://x.com/yuuki26/status/1933465969906577693"
-"2025-06-13 01:03:14","as for euler's formula
-e^iθ = cos θ + i sin θ
-i found the rhs impossible to understand. it looked like an equation combining two insanely complex functions.","https://x.com/yuuki26/status/1933193385096999026"
-"2025-06-12 23:59:04","i first saw it at 14. i also learned the quadratic formula x = (-b ± √Δ)/2a around the same time, but it looks uninteresting without knowing math.","https://x.com/yuuki26/status/1933177234702971144"
-"2025-06-12 22:44:38","the first math formula people learn is probably
-e^iπ + 1 = 0
-(euler's identity)
-
-people these days might learn it at 2.
-an underground formula involving an imaginary number i = √-1","https://x.com/yuuki26/status/1933158504556028409"
-"2025-06-12 15:59:12","@no_tl
-moved Basic math formulas to Math formulas
-https://wikinder.org/Math-formulas https://twitter.com/yuuki26/status/1925629260426838228","https://x.com/yuuki26/status/1933056472839303251"
-"2025-06-12 14:35:53","just remembered posting a “millennium institute problem” on 2channel's math board when i was 9.
-
-Problem:
-If X is tilted by Z degrees, then the pressure on Y (distance difference d) is Z*30 - Z. Find the pressure.","https://x.com/yuuki26/status/1933035507153285329"
-"2025-06-12 00:29:25","people want to believe someone's pulling the strings. in reality it was just some rocks colliding","https://x.com/yuuki26/status/1932822486309118335"
-"2025-06-12 00:26:18","people are drawn to dramatic explanations. there's nothing emotional about the universe being made naturally","https://x.com/yuuki26/status/1932821701860987072"
-"2025-06-11 23:51:31","i think the simulation hypothesis is false.
-i have no proof, just my belief or intuition.","https://x.com/yuuki26/status/1932812950114304268"
-"2025-06-11 23:18:40","i'm basically an atheist.
-i think the universe might've been made by natural phenomena.
-maybe stones were moving in empty space.","https://x.com/yuuki26/status/1932804680968548397"
-"2025-06-11 21:50:30","*it seems accurate to say
-
-seems this is correct","https://x.com/yuuki26/status/1932782491565490339"
-"2025-06-11 21:42:27","seems it's precise to say i'm non-religious. i've never joined any religious group.","https://x.com/yuuki26/status/1932780469839429967"
-"2025-06-11 16:26:32","drank monster engine","https://x.com/yuuki26/status/1932700966249234717"
-"2025-06-11 16:24:03","slept for an hour","https://x.com/yuuki26/status/1932700339863478623"
-"2025-06-11 14:10:56","i don't know. too lazy to look it up.
-
-but i think the history/philosophy of math is something that should be learned right after addition. i had the exact same question when i was 12. still haven't found the answer, tho. https://x.com/yuuki26/status/1932666841882628426/photo/1","https://x.com/yuuki26/status/1932666841882628426"
-"2025-06-11 00:13:38","maybe you shouldn't trust videos of people talking alone. the impression you get is very different when they're talking to someone.","https://x.com/yuuki26/status/1932456125628084671"
+https://youtu.be/zW8V4n2zpN4 https://x.com/yuuki26/status/1935748221508423988/video/1","https://x.com/yuuki26/status/1935748221508423988"
+"2025-06-19 17:49:01","@no_tl
+perl script to convert csv downloaded from twilog for yuuki x archive
+https://pastebin.com/RrkUYePA","https://x.com/yuuki26/status/1935620824113053831"
 "2025-06-19 15:15:31","(measured during a physical exam or hospital visit)","https://x.com/yuuki26/status/1935582194711642375"
 "2025-06-19 15:15:06","#history of my height and weight
 
