@@ -1,3 +1,5 @@
+< [Texts](https://github.com/yuukiarchive/texts)
+
 # yuuki's X posts
 
 * [@yuuki26](https://x.com/i/user/1463770680491593729)
